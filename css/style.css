@@ -1,0 +1,29 @@
+body{
+	background-color: #606060;
+	font-family: Helvetica, sans-serif;
+	color: #BAAAD6;
+}
+
+.contenido{
+	background-color:#47424A;
+}
+
+li a{
+	color: #fff;
+}
+
+footer{
+	background-color:#111111;
+	color:white;
+}
+
+.linkproducto{
+	color:#8a8a5c;
+}
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 70%;
+    z-index:10;
+}
